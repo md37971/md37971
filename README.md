@@ -9,6 +9,7 @@
 <li>💻 - In my spare time online, I like to develop personal projects or play video games!</li>
 <li>👨‍💻 - My favorite programming languages are Java and Python!</li>
 </ul>
+<p>For more information about me, visit my portfolio website: https://md37971.github.io/portfolioSite1/</p>
 <hr>
 
 <h2>Programming Languages Used / Currently Learning 🖥️</h2>  <!--Badges Source: https://github.com/alexandresanlim/Badges4-README.md-Profile-->

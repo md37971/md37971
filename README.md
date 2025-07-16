@@ -12,12 +12,12 @@
 <p>For more information about me, visit my portfolio website: https://md37971.github.io/portfolioSite1/</p>
 <hr>
 
-<h2>Programming Languages Used / Currently Learning 🖥️</h2>  <!--Badges Source: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<h2>Technologies Used / Currently Learning 🖥️</h2>  <!--Badges Source: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-1163a6?style=for-the-badge&logo=python&logoColor=d9d509)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 
 <hr>

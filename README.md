@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-1163a6?style=for-the-badge&logo=python&logoColor=d9d509)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=SQL&logoColor=white)
 
 
 <hr>
